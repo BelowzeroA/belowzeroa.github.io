@@ -1,6 +1,6 @@
-## On Gato — the Deepmind model 
+### How to build AGI?
 
-How to build AGI? Take an architecture that predicts the next element of the sequence, add multimodality, train on hundreds diverse tasks and get what some journalists claim as “proto-AGI that just needs to be scaled””.
+Take an architecture that predicts the next element of the sequence, add multimodality, train on hundreds diverse tasks and get what some journalists claim as "proto-AGI that just needs to be scaled".
 
 Nando de Freitas wrote on Twitter
 

@@ -7,7 +7,7 @@ Nando de Freitas [wrote](https://twitter.com/NandoDF/status/1525397036325019649)
 
 > It’s all about scale now! The Game is Over! It’s about making these models bigger, safer, compute efficient, faster at sampling, smarter memory, more modalities, INNOVATIVE DATA, on/offline, … 1/N.
 
-It collected over 200 retweets.
+It collected over 200 retweets!
 
 Is it fair to say “It’s all about scale now?” The article Nando was replying to has made it clear:
 
